@@ -1,0 +1,66 @@
+# Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.psess
+*.vsp
+*.vsmdi
+*.cachefile
+*.pdb
+*.dbmdl
+*.opendb
+*.opendb.tmp
+
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# AWS SAM artifacts
+.aws-sam/
+samconfig.toml
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Logs and dumps
+*.log
+*.tlog
+*.dump
+
+# Others
+_ReSharper*/
+*.DotSettings.user
+*.bak
+*.Backup
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
