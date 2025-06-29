@@ -215,17 +215,17 @@ In designing the overall solution, the following assumptions and priorities guid
 
 ### 🧱 1. System Architecture Overview
 
-![System Architecture Overview](/docs/overview.png)
+![System Architecture Overview](docs/overview.png)
 
 ---
 
 ### ✍️ 2. Write Sequence (POST /events)
 
-![Write Sequence](/docs/writes.png)
+![Write Sequence](docs/writes.png)
 
 ---
 
 ### 📥 3. Read Sequence (GET /events/{userId})
 
-![Read Sequence](/docs/reads.png)
+![Read Sequence](docs/reads.png)
 
